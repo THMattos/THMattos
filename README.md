@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago de Mattos 😎
 
-Sou estudante de Ciência da Computação e apaixonado por games. No meu canal Próximo Start, eu mostro minhas aventuras e dicas nos jogos que eu mais gosto. Além disso, estou fazendo um bootcamp de Análise de Dados, pois quero me aprofundar nessa área e me tornar um analista de dados profissional. Tenho conhecimento básico em HTML, CSS3, JavaScript, SQL e Python, e estou sempre buscando aprender mais sobre essas e outras ferramentas. Busco minha primeira oportunidade nesse campo, onde possa usar meus conhecimentos e habilidades em tecnologia e games para resolver problemas, explorar dados e gerar insights. Sou curioso, criativo e sempre disposto a aprender coisas novas.
+Sou estudante de Ciência da Computação e apaixonado por games. Além disso, estou fazendo um bootcamp de Análise de Dados, pois quero me aprofundar nessa área e me tornar um analista de dados profissional. Tenho conhecimento básico em HTML, CSS3, JavaScript, SQL e Python, e estou sempre buscando aprender mais sobre essas e outras ferramentas. Busco minha primeira oportunidade nesse campo, onde possa usar meus conhecimentos e habilidades em tecnologia e games para resolver problemas, explorar dados e gerar insights. Sou curioso, criativo e sempre disposto a aprender coisas novas.
 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodemattos-/)
