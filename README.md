@@ -28,10 +28,5 @@ Sou estudante de Ciência da Computação e apaixonado por games. Além disso, e
 
 Eu sou apaixonado pela tecnologia porque ela me abre novas possibilidades. Eu posso criar coisas incríveis com o meu computador. Eu posso programar, desenhar, escrever, jogar e muito mais. A tecnologia me faz feliz e me desafia a aprender sempre mais. 😊
 
-## Últimos videos:
 
-
-- [Os 10 Melhores Jogos do Master System que Marcaram a Infância de Muita Gente!](https://www.youtube.com/watch?v=5HsyP6faIHE&t=46s)
-- [Killer Instinct: O jogo de luta que criou um novo padrão nos anos 90!](https://www.youtube.com/watch?v=9oMIzaI3IlU&t=4s)
-- [Killer Instinct 2: a viagem no tempo que mudou a história dos jogos de luta!](https://www.youtube.com/watch?v=ONCq_PB9QyU&t=42s)
   
