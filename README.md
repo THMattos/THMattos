@@ -1,4 +1,4 @@
-### 👋 Olá! Me chamo Thiago de Mattos e estou dando meus primeiros passos na área de desenvolvimento.
+### 👋 Olá! Eu Me chamo Thiago de Mattos e estou dando meus primeiros passos na área de desenvolvimento.
 
 📚 Atualmente curso **Tecnologia em Redes de Computadores** na faculdade e estou estudando linguagens como **Python**, **HTML**, **CSS** e **JavaScript** — sempre buscando evoluir como programador.
 
