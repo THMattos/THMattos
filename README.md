@@ -1,11 +1,12 @@
-### 👋 Olá! Eu Me chamo Thiago de Mattos e estou dando meus primeiros passos na área de desenvolvimento.
+### 👋 Olá! Eu me chamo Thiago de Mattos e estou iniciando minha carreira na área de desenvolvimento de software.
 
-📚 Atualmente curso **Tecnologia em Redes de Computadores** na faculdade e estou estudando linguagens como **Python**, **HTML**, **CSS** e **JavaScript** — sempre buscando evoluir como programador.
+🎓 Atualmente curso Engenharia de Software e concluí um bootcamp em Análise de Dados na TripleTen, onde adquiri conhecimentos práticos em manipulação e interpretação de dados.
 
-🚀 Sou iniciante, mas apaixonado por tecnologia e comprometido com a prática constante e aprendizado contínuo.  
-Aqui no GitHub compartilho meus projetos, testes e experiências nessa jornada.
+💻 Tenho experiência básica com linguagens como Python, HTML, CSS e JavaScript, e estou focado em expandir minhas habilidades e aplicar novos conhecimentos em projetos reais.
 
-Vamos codar! 💻🔥
+🚀 Sou apaixonado por tecnologia, dedicado à prática constante e ao aprendizado contínuo. Aqui no GitHub compartilho meus projetos, experimentos e aprendizados nessa jornada.
+
+Vamos codar juntos! 💻🔥
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-mattos-134278372/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
