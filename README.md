@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api
-type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thiago%20Mattos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20Formação%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thiago%20de%20Mattos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20Formação%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 
 <!-- Typing animation -->
