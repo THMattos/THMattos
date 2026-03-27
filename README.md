@@ -1,8 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?
-type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thiago%20de%20Mattos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20Formação%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e
+<img width="100%" src="https://capsule-render.vercel.app/api
+type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thiago%20de%20Mattos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20Formação%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e"/>
+
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Analista+de+Dados+%7C+TripleTen+Bootcamp;Apaixonado+por+Tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
