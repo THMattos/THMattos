@@ -84,7 +84,7 @@ class Thiago:
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Automação de Processos](https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o%20de%20Processos.ipynb)
+### 🤖 [https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o_de_Processos.ipynb)
 > Projeto de automação de tarefas repetitivas utilizando Python e Jupyter Notebook.
 > 
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
