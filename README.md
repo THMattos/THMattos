@@ -84,14 +84,17 @@ class Thiago:
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o_de_Processos.ipynb)
-> Projeto de automação de tarefas repetitivas utilizando Python e Jupyter Notebook.
-> 
+### 🤖 [Automação de Processos](https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o%20de%20Processos.ipynb)
+
+> Automatiza a busca de dados de ações da bolsa, gera análises e envia e-mail automaticamente com os resultados.
+>
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 > ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### 💰 [Gerador de Orçamento](https://github.com/THMattos/THMattos/blob/main/Gerador%20de%20Or%C3%A7amento.ipynb)
-> Ferramenta para geração automática de orçamentos em PDF com Python.
+
+> Ferramenta para geração automática de orçamentos profissionais em PDF com Python.
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 > ![PDF](https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobe&logoColor=white)
