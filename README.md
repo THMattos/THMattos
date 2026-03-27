@@ -1,37 +1,140 @@
-### 👋 Olá! Eu me chamo Thiago de Mattos e estou iniciando minha carreira na área de desenvolvimento de software.
+<div align="center">
 
-🎓 Atualmente curso Engenharia de Software e concluí um bootcamp em Análise de Dados na TripleTen, onde adquiri conhecimentos práticos em manipulação e interpretação de dados.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Thiago%20Mattos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Software%20em%20Formação%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e"/>
 
-💻 Tenho experiência básica com linguagens como Python, HTML, CSS e JavaScript, e estou focado em expandir minhas habilidades e aplicar novos conhecimentos em projetos reais.
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Analista+de+Dados+%7C+TripleTen+Bootcamp;Apaixonado+por+Tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-🚀 Sou apaixonado por tecnologia, dedicado à prática constante e ao aprendizado contínuo. Aqui no GitHub compartilho meus projetos, experimentos e aprendizados nessa jornada.
+<br/>
 
-Vamos codar juntos! 💻🔥
-
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-mattos-134278372/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thmattos38)
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-mattos-134278372/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thmattosrj/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thmattos38)
+![Profile Views](https://komarev.com/ghpvc/?username=THMattos&color=58a6ff&style=for-the-badge&label=VISITAS)
 
+</div>
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=THMattos&show_icons=true&theme=highcontrast)
+---
 
+## 👨‍💻 Sobre Mim
 
-## Tecnologia que uso no meu dia a dia:
+```python
+class Thiago:
+    nome       = "Thiago de Mattos"
+    localizacao = "Rio de Janeiro, Brasil 🇧🇷"
+    formacao   = "Engenharia de Software (cursando)"
+    bootcamp   = "Análise de Dados — TripleTen ✅"
+    foco       = ["Desenvolvimento Web", "Análise de Dados", "Automação com Python"]
+    status     = "Em transição de carreira 🚀"
+    
+    def missao(self):
+        return "Transformar dados em decisões e código em soluções reais."
+```
 
-<div style="display: inline_block"><br/> 
-<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img aling="center" alt="jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-<img aling="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</div><br/>
+- 🎓 Cursando **Engenharia de Software**
+- 📊 Concluí bootcamp de **Análise de Dados** na TripleTen
+- 🔄 Em **transição de carreira** para a área de tecnologia
+- 🌱 Atualmente aprofundando conhecimentos em **Python, SQL e Desenvolvimento Web**
+- 💡 Apaixonado por **automação de processos** e resolução de problemas com código
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/thiago-de-mattos-134278372/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THMattos
-)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-Eu sou apaixonado pela tecnologia porque ela me abre novas possibilidades. Eu posso criar coisas incríveis com o meu computador. Eu posso programar, desenhar, escrever, jogar e muito mais. A tecnologia me faz feliz e me desafia a aprender sempre mais. 😊
+## 🛠️ Tecnologias & Ferramentas
+
+### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🐍 Back-end & Dados
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=THMattos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THMattos&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=THMattos&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 [Automação de Processos](https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o%20de%20Processos.ipynb)
+> Projeto de automação de tarefas repetitivas utilizando Python e Jupyter Notebook.
+> 
+> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+> ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+
+### 💰 [Gerador de Orçamento](https://github.com/THMattos/THMattos/blob/main/Gerador%20de%20Or%C3%A7amento.ipynb)
+> Ferramenta para geração automática de orçamentos em PDF com Python.
+>
+> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+> ![PDF](https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobe&logoColor=white)
+
+---
+
+## 📈 Jornada de Aprendizado
+
+```
+🟡 Aprendendo     ████████░░░░░░░░░░░  Python
+🟡 Aprendendo     ████████░░░░░░░░░░░  HTML & CSS
+🟡 Aprendendo     ███████░░░░░░░░░░░░  JavaScript
+🟡 Aprendendo     ███████░░░░░░░░░░░░  SQL
+🟡 Aprendendo     ██████░░░░░░░░░░░░░  TypeScript
+🟡 Aprendendo     █████░░░░░░░░░░░░░░  Docker
+🟡 Aprendendo     █████░░░░░░░░░░░░░░  Pandas & NumPy
+🟡 Aprendendo     ████░░░░░░░░░░░░░░░  Git & GitHub
+🟡 Aprendendo     ████░░░░░░░░░░░░░░░  VS Code
+```
+
+---
+
+## 💭 Frase do Dia
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20tecnologia%20move%20o%20mundo&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Vamos nos conectar!
+
+*"Sou apaixonado pela tecnologia porque ela me abre novas possibilidades. Posso criar coisas incríveis, programar, automatizar e aprender sempre mais."*
+
+⭐ **Se gostou dos meus projetos, deixa uma estrela!** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+
+</div>
 
 
   
