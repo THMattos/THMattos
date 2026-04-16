@@ -99,7 +99,7 @@ class Thiago:
 
 ###  📊 [Vehicle Market Analysis](https://github.com/THMattos/vehicle-analysis) 
 
->   📊 Vehicle Market Analysis
+>  # 📊 Vehicle Market Analysis
 >
 >  Interactive dashboard for vehicle market analysis built with Python, Streamlit, and Plotly.
 
