@@ -85,8 +85,9 @@ class Thiago:
 
 ## 🚀 Projetos em Destaque
 
-### * 🚀 [ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) – Linguagem híbrida focada em computação quântica e segurança pós-quântica.
-> Automatiza a busca de dados de ações da bolsa, gera análises e envia e-mail automaticamente com os resultados.
+### 🚀 [ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
+> Linguagem híbrida focada em computação quântica e segurança pós-quântica.
+>
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 > ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
