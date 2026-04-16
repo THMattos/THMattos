@@ -83,7 +83,7 @@ class Thiago:
 
 ---
 
-## 🚀 Projetos em Destaque:  
+# 🚀 Projetos em Destaque  
 
 ## Aether-ZPoint 🛡️
 
