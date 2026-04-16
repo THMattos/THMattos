@@ -90,8 +90,10 @@ class Thiago:
 >
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-> ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GitHub Gists](https://img.shields.io/badge/Quantum_Computing-632CA6?style=flat&logo=ibm&logoColor=white)
 
 ### 💰 [Gerador de Orçamento](https://github.com/THMattos/THMattos/blob/main/Gerador%20de%20Or%C3%A7amento.ipynb)
 
