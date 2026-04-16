@@ -86,6 +86,7 @@ class Thiago:
 ## 🚀 Projetos em Destaque
 
 ### 🚀 [ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
+
 > Linguagem híbrida focada em computação quântica e segurança pós-quântica.
 >
 >
@@ -95,12 +96,18 @@ class Thiago:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GitHub Gists](https://img.shields.io/badge/Quantum_Computing-632CA6?style=flat&logo=ibm&logoColor=white)
 
-### 💰 [Gerador de Orçamento](https://github.com/THMattos/THMattos/blob/main/Gerador%20de%20Or%C3%A7amento.ipynb)
+###  📊 [Vehicle Market Analysis](https://github.com/THMattos/vehicle-analysis) 
 
-> Ferramenta para geração automática de orçamentos profissionais em PDF com Python.
+>   Análise exploratória de dados e precificação de veículos utilizando Python e bibliotecas de Data Science.
+
+
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-> ![PDF](https://img.shields.io/badge/PDF-FF0000?style=flat&logo=adobe&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Quantum_Computing](https://img.shields.io/badge/Quantum_Computing-632CA6?style=flat&logo=ibm&logoColor=white)
 
 ---
 
