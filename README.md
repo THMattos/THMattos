@@ -87,7 +87,8 @@ class Thiago:
 
 ### 🚀 [Aether ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
 
-> Linguagem híbrida focada em computação quântica e segurança pós-quântica.
+> # Aether-ZPoint 🛡️
+> Hybrid language focused on quantum computing and post-quantum security.
 >
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -98,7 +99,9 @@ class Thiago:
 
 ###  📊 [Vehicle Market Analysis](https://github.com/THMattos/vehicle-analysis) 
 
->   Análise exploratória de dados e precificação de veículos utilizando Python e bibliotecas de Data Science.
+>   📊 Vehicle Market Analysis
+>
+>  Interactive dashboard for vehicle market analysis built with Python, Streamlit, and Plotly.
 
 
 >
