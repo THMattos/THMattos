@@ -85,8 +85,7 @@ class Thiago:
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Automação de Processos](https://github.com/THMattos/THMattos/blob/main/Automa%C3%A7%C3%A3o%20de%20Processos.ipynb)
-
+### * 🚀 [ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) – Linguagem híbrida focada em computação quântica e segurança pós-quântica.
 > Automatiza a busca de dados de ações da bolsa, gera análises e envia e-mail automaticamente com os resultados.
 >
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
