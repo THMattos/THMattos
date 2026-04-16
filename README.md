@@ -83,11 +83,13 @@ class Thiago:
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque? 
+
+# Aether-ZPoint 🛡️
 
 ### 🚀 [Aether ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
 
-> # Aether-ZPoint 🛡️
+> 
 > Hybrid language focused on quantum computing and post-quantum security.
 >
 >
@@ -97,9 +99,11 @@ class Thiago:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GitHub Gists](https://img.shields.io/badge/Quantum_Computing-632CA6?style=flat&logo=ibm&logoColor=white)
 
+ # 📊 Vehicle Market Analysis
+ 
 ###  📊 [Vehicle Market Analysis](https://github.com/THMattos/vehicle-analysis) 
 
->  # 📊 Vehicle Market Analysis
+> 
 >
 >  Interactive dashboard for vehicle market analysis built with Python, Streamlit, and Plotly.
 
