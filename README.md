@@ -85,7 +85,7 @@ class Thiago:
 
 ## 🚀 Projetos em Destaque
 
-### 🚀 [ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
+### 🚀 [Aether ZPoint Script: Aether-Shield](https://github.com/THMattos/Aether-zpoint) 
 
 > Linguagem híbrida focada em computação quântica e segurança pós-quântica.
 >
